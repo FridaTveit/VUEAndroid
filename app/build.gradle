@@ -5,7 +5,7 @@ android {
     buildToolsVersion "19.1.0"
 
     defaultConfig {
-        applicationId "co.vybz.vue"
+        applicationId "co.vassar.vue"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1

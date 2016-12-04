@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/VUE.iml" filepath="$PROJECT_DIR$/VUE.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/VUEAndroid.iml" filepath="$PROJECT_DIR$/VUEAndroid.iml" />
+>>>>>>> 16f37183aa3a0d4f01fed7353f58a10975cb9e20
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
